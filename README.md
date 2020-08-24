@@ -4,7 +4,7 @@ It's time to speed up development process without worrying about manually writin
 <br> &nbsp;&nbsp;&nbsp;&nbsp;
 Just add available **className** or **shortName** classes to your HTML file and viola, no more CSS code to write anymore!
 <br> &nbsp;&nbsp;&nbsp;&nbsp;
-Currently support only 4 properties...
+Currently support only 4 properties ...
 
 ## align-content
 
