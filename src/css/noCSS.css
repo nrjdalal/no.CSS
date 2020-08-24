@@ -1,0 +1,414 @@
+.ac-baseline,
+.ac-b {
+  -ms-flex-line-pack: baseline;
+      align-content: baseline;
+}
+
+.ac-center,
+.ac-c {
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.ac-end,
+.ac-e {
+  -ms-flex-line-pack: end;
+      align-content: end;
+}
+
+.ac-first_baseline,
+.ac-fb {
+  -ms-flex-line-pack: first baseline;
+      align-content: first baseline;
+}
+
+.ac-flex-end,
+.ac-fe {
+  -ms-flex-line-pack: end;
+      align-content: flex-end;
+}
+
+.ac-flex-start,
+.ac-fs {
+  -ms-flex-line-pack: start;
+      align-content: flex-start;
+}
+
+.ac-last_baseline,
+.ac-lb {
+  -ms-flex-line-pack: last baseline;
+      align-content: last baseline;
+}
+
+.ac-normal,
+.ac-n {
+  -ms-flex-line-pack: normal;
+      align-content: normal;
+}
+
+.ac-safe_center,
+.ac-sc {
+  -ms-flex-line-pack: safe center;
+      align-content: safe center;
+}
+
+.ac-space-around,
+.ac-sa {
+  -ms-flex-line-pack: distribute;
+      align-content: space-around;
+}
+
+.ac-space-between,
+.ac-sb {
+  -ms-flex-line-pack: justify;
+      align-content: space-between;
+}
+
+.ac-space-evenly,
+.ac-se {
+  -ms-flex-line-pack: space-evenly;
+      align-content: space-evenly;
+}
+
+.ac-start,
+.ac-s {
+  -ms-flex-line-pack: start;
+      align-content: start;
+}
+
+.ac-stretch,
+.ac-st {
+  -ms-flex-line-pack: stretch;
+      align-content: stretch;
+}
+
+.ac-unsafe_center,
+.ac-uc {
+  -ms-flex-line-pack: unsafe center;
+      align-content: unsafe center;
+}
+
+.ai-baseline,
+.ai-b {
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+
+.ai-center,
+.ai-c {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.ai-end,
+.ai-e {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: end;
+}
+
+.ai-first_baseline,
+.ai-fb {
+  -webkit-box-align: first baseline;
+      -ms-flex-align: first baseline;
+          align-items: first baseline;
+}
+
+.ai-flex-end,
+.ai-fe {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+.ai-flex-start,
+.ai-fs {
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.ai-last_baseline,
+.ai-lb {
+  -webkit-box-align: last baseline;
+      -ms-flex-align: last baseline;
+          align-items: last baseline;
+}
+
+.ai-normal,
+.ai-n {
+  -webkit-box-align: normal;
+      -ms-flex-align: normal;
+          align-items: normal;
+}
+
+.ai-safe_center,
+.ai-sc {
+  -webkit-box-align: safe center;
+      -ms-flex-align: safe center;
+          align-items: safe center;
+}
+
+.ai-start,
+.ai-s {
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+}
+
+.ai-stretch,
+.ai-st {
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+
+.ai-unsafe_center,
+.ai-uc {
+  -webkit-box-align: unsafe center;
+      -ms-flex-align: unsafe center;
+          align-items: unsafe center;
+}
+
+.as-baseline,
+.as-b {
+  -ms-flex-item-align: baseline;
+      align-self: baseline;
+}
+
+.as-center,
+.as-c {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
+.as-end,
+.as-e {
+  -ms-flex-item-align: end;
+      -ms-grid-row-align: end;
+      align-self: end;
+}
+
+.as-first_baseline,
+.as-fb {
+  -ms-flex-item-align: first baseline;
+      -ms-grid-row-align: first baseline;
+      align-self: first baseline;
+}
+
+.as-flex-end,
+.as-fe {
+  -ms-flex-item-align: end;
+      align-self: flex-end;
+}
+
+.as-flex-start,
+.as-fs {
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+}
+
+.as-last_baseline,
+.as-lb {
+  -ms-flex-item-align: last baseline;
+      -ms-grid-row-align: last baseline;
+      align-self: last baseline;
+}
+
+.as-normal,
+.as-n {
+  -ms-flex-item-align: normal;
+      -ms-grid-row-align: normal;
+      align-self: normal;
+}
+
+.as-safe_center,
+.as-sc {
+  -ms-flex-item-align: safe center;
+      -ms-grid-row-align: safe center;
+      align-self: safe center;
+}
+
+.as-self-end,
+.as-se {
+  -ms-flex-item-align: self-end;
+      -ms-grid-row-align: self-end;
+      align-self: self-end;
+}
+
+.as-self-start,
+.as-ss {
+  -ms-flex-item-align: self-start;
+      -ms-grid-row-align: self-start;
+      align-self: self-start;
+}
+
+.as-start,
+.as-s {
+  -ms-flex-item-align: start;
+      -ms-grid-row-align: start;
+      align-self: start;
+}
+
+.as-stretch,
+.as-st {
+  -ms-flex-item-align: stretch;
+      -ms-grid-row-align: stretch;
+      align-self: stretch;
+}
+
+.as-unsafe_center,
+.as-uc {
+  -ms-flex-item-align: unsafe center;
+      -ms-grid-row-align: unsafe center;
+      align-self: unsafe center;
+}
+
+.d-block,
+.d-b {
+  display: block;
+}
+
+.d-contents,
+.d-c {
+  display: contents;
+}
+
+.d-flex,
+.d-f {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.d-flow,
+.d-fl {
+  display: flow;
+}
+
+.d-flow-root,
+.d-fr {
+  display: flow-root;
+}
+
+.d-grid,
+.d-g {
+  display: -ms-grid;
+  display: grid;
+}
+
+.d-inline,
+.d-i {
+  display: inline;
+}
+
+.d-inline-block,
+.d-ib {
+  display: inline-block;
+}
+
+.d-inline-flex,
+.d-if {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.d-inline-grid,
+.d-ig {
+  display: -ms-inline-grid;
+  display: inline-grid;
+}
+
+.d-inline-table,
+.d-it {
+  display: inline-table;
+}
+
+.d-list-item,
+.d-li {
+  display: list-item;
+}
+
+.d-none,
+.d-n {
+  display: none;
+}
+
+.d-ruby,
+.d-r {
+  display: ruby;
+}
+
+.d-ruby-base,
+.d-rb {
+  display: ruby-base;
+}
+
+.d-ruby-base-container,
+.d-rbc {
+  display: ruby-base-container;
+}
+
+.d-ruby-text,
+.d-rt {
+  display: ruby-text;
+}
+
+.d-ruby-text-container,
+.d-rtc {
+  display: ruby-text-container;
+}
+
+.d-run-in,
+.d-ri {
+  display: run-in;
+}
+
+.d-table,
+.d-t {
+  display: table;
+}
+
+.d-table-caption,
+.d-tca {
+  display: table-caption;
+}
+
+.d-table-cell,
+.d-tce {
+  display: table-cell;
+}
+
+.d-table-column,
+.d-tc {
+  display: table-column;
+}
+
+.d-table-column-group,
+.d-tcg {
+  display: table-column-group;
+}
+
+.d-table-footer-group,
+.d-tfg {
+  display: table-footer-group;
+}
+
+.d-table-header-group,
+.d-thg {
+  display: table-header-group;
+}
+
+.d-table-row,
+.d-tr {
+  display: table-row;
+}
+
+.d-table-row-group,
+.d-trg {
+  display: table-row-group;
+}
