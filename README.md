@@ -1,4 +1,10 @@
-# align-content
+# CSS for ASAP Developers and Testers
+
+It's time to speed up development process without worrying about manually writing a bunch of CSS code and worrying about naming classes and what not!
+<br> &nbsp;&nbsp;&nbsp;&nbsp;
+Just add available shortName classes to your HTML file and viola, no more CSS code to write anymore!
+
+## align-content
 
 | value           | className         | shortName |
 | --------------- | ----------------- | --------- |
@@ -18,7 +24,7 @@
 | stretch         | ac-stretch        | ac-st \*  |
 | unsafe center   | ac-unsafe_center  | ac-uc     |
 
-# align-items
+## align-items
 
 | value           | className         | shortName |
 | --------------- | ----------------- | --------- |
@@ -35,7 +41,7 @@
 | stretch         | ai-stretch        | ai-st \*  |
 | unsafe center   | ai-unsafe_center  | ai-uc     |
 
-# align-self
+## align-self
 
 | value          | className         | shortName |
 | -------------- | ----------------- | --------- |
@@ -55,7 +61,7 @@
 | stretch        | as-stretch        | as-st \*  |
 | unsafe center  | as-unsafe_center  | as-uc     |
 
-# display
+## display
 
 | value               | className             | shortName |
 | ------------------- | --------------------- | --------- |
