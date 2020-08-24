@@ -2,7 +2,7 @@
 
 It's time to speed up development process without worrying about manually writing a bunch of CSS code and worrying about naming classes and what not!
 <br> &nbsp;&nbsp;&nbsp;&nbsp;
-Just add available shortName classes to your HTML file and viola, no more CSS code to write anymore!
+Just add available **className** or **shortName** classes to your HTML file and viola, no more CSS code to write anymore!
 
 ## align-content
 
